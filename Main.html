@@ -1,0 +1,163 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCLOv4XXeiLHi0SUzW0O3ZNCiq4jGiVHFI&sensor=false&libraries=places"></script>
+    <meta charset="UTF-8">
+    <title>Trial Form</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="AR/css/css.css">
+    <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>
+    <link rel="stylesheet" href="AR/css/style.css">
+
+</head>
+<body>
+    <div class="auto-style1">
+        <div id="map"></div>
+    </div>
+    <div>
+        <br>
+        <div class="container" style="box-shadow: 0 3px 10px 0 rgba(50,50,50,.2);">
+            <br>
+            <div class="col-md-6">
+
+                <div class="row">
+                    <div class="col-half">
+                        <div class="input-group input-group-icon">
+                            <input type="text" id="start" list="Airport name" placeholder="Pick Up Address">
+                            <datalist id="Airport name">
+                                <option value="London Heathrow Airport TW6 1AP, Terminal-1" />
+                                <option value="London Heathrow Airport TW6 1EW, Terminal-2 " />
+                                <option value="London Heathrow Airport TW6 1QG, Terminal-3 " />
+                                <option value="London Heathrow Airport TW6 3XA, Terminal-4 " />
+                                <option value="London Heathrow Airport TW6 2GA, Terminal-5 " />
+                                <option value="London Gatwick Airport RH6 0PJ, North Terminal " />
+                                <option value="London Gatwick Airport RH6 0NP, South Terminal " />
+                                <option value="Stansted Airport CM24 1RW" />
+                                <option value="Luton Airport LU2 9QT" />
+                                <option value="London City Airport E16 2PX" />
+                          
+                            </datalist>
+                            <div class="input-icon"><i class="fa fa-map-marker"></i></div>
+                        </div>
+                    </div>
+                    <div class="col-half">
+                        <div class="input-group input-group-icon">
+                            <input type="text" id="end" list="Airport name" placeholder="Drop Off Address">
+                            <div class="input-icon"><i class="fa fa-map-marker"></i></div>
+                        </div>
+                    </div>
+                </div><br>
+                <div class="row">
+                    <div class="col-half">
+                        <div class="input-group">
+                            <div class="col-third">
+                                <div class="input-group input-group-icon">
+                                    <input type="date" id="dt" placeholder="Date of Journey">
+                                    <div class="input-icon"><i class="fa fa-calendar"></i></div>
+                                </div>
+                            </div>
+                            <div class="col-third">
+                                <div class="input-group">
+                                    <select id="account">
+                                        <option value="CASH">CASH</option>
+                                        <option value="CRD">CRD</option>
+                                        <option value="XYZ">XYZ</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-half">
+                        <div class="input-group">
+                            <input type="submit" id="submit" class="buthover" value="GET QUOTE" onclick="setURL();">
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+        <script>
+            $(window).load(function ()
+            {
+                mydate();
+                var date = new Date();
+
+                var day = date.getDate();
+                var month = date.getMonth() + 1;
+                var year = date.getFullYear();
+
+                if (month < 10) month = "0" + month;
+                if (day < 10) day = "0" + day;
+
+                var today = year + "-" + month + "-" + day;
+                $("#dt").attr("value", today);
+             
+            });
+
+            function mydate()
+            {
+                var input = document.getElementById("dt");
+                var today = new Date();
+                var day = today.getDate();
+                // Set month to string to add leading 0
+                var mon = new String(today.getMonth() + 1); //January is 0!
+                var yr = today.getFullYear();
+
+                if (mon.length < 2) { mon = "0" + mon; }
+
+                var date = new String(yr + '-' + mon + '-' + day);
+
+
+                input.disabled = false;
+                input.setAttribute('min', date);
+            }
+
+            var start = new google.maps.places.Autocomplete(
+              /** @type {!HTMLInputElement} */
+              (document.getElementById('start')), {
+                  types: ['geocode'],
+                  componentRestrictions: { country: "uk" }
+              });
+
+            var end = new google.maps.places.Autocomplete(
+              /** @type {!HTMLInputElement} */
+              (document.getElementById('end')), {
+                  types: ['geocode'],
+                  componentRestrictions: { country: "uk" }
+              });
+
+            function setURL() {
+
+                
+                var from = document.getElementById("start").value;
+                var to = document.getElementById("end").value;
+                var dt = document.getElementById("dt").value;
+                var acc = document.getElementById("account").value;
+                //just test here ..what is coming..
+
+                if (from != "" && to != "" && dt != "" && acc != "") {
+                    // Put this in your login function, just before the redirect
+                    var sessionTimeout = 1; //hours
+                    var loginDuration = new Date();
+                    loginDuration.setTime(loginDuration.getTime() + (sessionTimeout * 60 * 60 * 1000));
+                    document.cookie = "CrewCentreSession=Valid; " + loginDuration.toGMTString() + "; path=/BookingPortal.aspx";
+                var mylink = "BookingPortal.aspx?from=" + from + "&to=" + to + "&date=" + dt + "&account=" + acc;
+                window.open(mylink, "_self")
+
+                 }
+            else
+            {
+                    alert("Please Fill Form Completely");
+            }
+
+            }
+            //if (document.cookie.indexOf("CrewCentreSession=Valid") == -1) {
+            //    location.href = "/main.html";
+            //}
+
+        </script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <style type="text/css">
+        body {
+            font-family: Arial;
+            font-size: 10pt;
+        }
+    </style>
+
+
+</head>
+<body>
+    <select name="ddlNames" id="ddlNames">
+        <option selected value="1">Select Airport</option>
+        <option value="Gatwick Airport">Gatwick Airport </option>
+        <option value="Heathrow Airport">Heathrow Airport</option>
+        <option value="Stansted Airport">Stansted Airport </option>
+        <option value="City Airport">City Airport</option>
+        <option value="Luton Airport">Luton Airport </option>
+        <option value="London Southend Airport">London Southend Airport</option>
+    </select>
+    <br />
+    <br />
+    <input type="button" value="Select" onclick="SetName();" />
+    <script type="text/javascript">
+        function SetName() {
+            if (window.opener != null && !window.opener.closed) {
+                var txtName = window.opener.document.getElementById("start");
+                txtName.value = document.getElementById("ddlNames").value;
+            }
+            window.close();
+        }
+    </script>
+</body>
+</html>

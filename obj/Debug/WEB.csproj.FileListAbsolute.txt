@@ -1,0 +1,906 @@
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\ApplicationInsights.config
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\csc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\System.Collections.Immutable.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\vbc.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\VBCSCompiler.exe
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\roslyn\VBCSCompiler.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\WEB.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\WEB.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\WEB.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.AI.Web.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.AI.WindowsServer.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.ApplicationInsights.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.AI.Web.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.AI.WindowsServer.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.ApplicationInsights.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\obj\Debug\WEB.dll
+c:\users\administrator\documents\visual studio 2015\Projects\WEB\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\WEB _oldmethod\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Copy1 - Copy\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Original by maaz\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web site -bookportal - Copy\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Web locate me\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done V1.3CSS\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V1.7\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\obj\Debug\WEB.csproj.App.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\System.Net.Http.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\System.Net.Http.Primitives.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\unirest-net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\System.Net.Http.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\System.Net.Http.Primitives.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\System.Net.Http.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\System.Net.Http.Primitives.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\unirest-net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\System.Net.Http.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\System.Net.Http.Primitives.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\obj\Debug\WEB.csproj.App.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done - V2.1\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Primitives.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\unirest-net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Primitives.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\obj\Debug\WEB.csproj.App.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\System.Net.Http.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\System.Net.Http.Primitives.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\unirest-net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\System.Net.Http.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\System.Net.Http.Primitives.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\obj\Debug\WEB.csproj.App.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT - Copy\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\System.Net.Http.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\System.Net.Http.Primitives.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\unirest-net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\System.Net.Http.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\System.Net.Http.Primitives.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\obj\Debug\WEB.csproj.App.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\System.Net.Http.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\System.Net.Http.Primitives.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\unirest-net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\System.Net.Http.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\System.Net.Http.Primitives.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\obj\Debug\WEB.csproj.App.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\System.Net.Http.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\System.Net.Http.Primitives.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\unirest-net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\System.Net.Http.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\System.Net.Http.Primitives.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\obj\Debug\WEB.csproj.App.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT UI - testing V3\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\System.Net.Http.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\System.Net.Http.Primitives.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\unirest-net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\System.Net.Http.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\System.Net.Http.Primitives.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\obj\Debug\WEB.csproj.App.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\obj\Debug\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Buzybeez fareCalculator Fare Work Done NBT New\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\ApplicationInsights.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\csc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\vbc.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\WEB.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\WEB.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.Web.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Extensions.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Primitives.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Web.Http.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\unirest-net.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.Web.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Extensions.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Net.Http.Primitives.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Web.Http.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\obj\Debug\WEB.csproj.App.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\obj\Debug\WEB.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\obj\Debug\WEB.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\1 Norbiton\Buzybeez fareCalculator Fare Work Done NBT\WEB\obj\Debug\WEB.pdb

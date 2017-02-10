@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\book</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin.aspx">
+      <publishTime>09/19/2016 08:15:00</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>08/12/2016 10:36:05</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>08/12/2016 10:36:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>12/07/2015 19:04:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>06/06/2016 15:40:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>06/06/2016 10:45:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>06/06/2016 15:40:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>06/06/2016 10:42:24</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>06/15/2015 02:06:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/18/2015 20:19:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/18/2015 20:19:46</publishTime>
+    </File>
+    <File Include="bin/WEB.dll">
+      <publishTime>10/20/2016 11:37:15</publishTime>
+    </File>
+    <File Include="BookingPortal.aspx">
+      <publishTime>10/18/2016 08:11:06</publishTime>
+    </File>
+    <File Include="Fixedrate.aspx">
+      <publishTime>10/06/2016 14:22:51</publishTime>
+    </File>
+    <File Include="FixedrateDetails.aspx">
+      <publishTime>10/01/2016 13:43:51</publishTime>
+    </File>
+    <File Include="Fixedtablerate.aspx">
+      <publishTime>10/06/2016 13:31:40</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>10/20/2016 11:31:58</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>08/23/2016 10:35:05</publishTime>
+    </File>
+    <File Include="Maps.aspx">
+      <publishTime>10/07/2016 17:22:30</publishTime>
+    </File>
+    <File Include="MapsTo.aspx">
+      <publishTime>10/07/2016 17:27:24</publishTime>
+    </File>
+    <File Include="OFFICECYP.aspx">
+      <publishTime>10/20/2016 10:55:14</publishTime>
+    </File>
+    <File Include="OFFICENBA.aspx">
+      <publishTime>09/23/2016 07:32:09</publishTime>
+    </File>
+    <File Include="OFFICENBT.aspx">
+      <publishTime>09/23/2016 07:31:40</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/12/2016 10:36:05</publishTime>
+    </File>
+    <File Include="Popup.html">
+      <publishTime>08/30/2016 08:56:39</publishTime>
+    </File>
+    <File Include="popupto.html">
+      <publishTime>08/30/2016 08:56:39</publishTime>
+    </File>
+    <File Include="Show me.aspx">
+      <publishTime>09/29/2016 06:36:43</publishTime>
+    </File>
+    <File Include="Signup.aspx">
+      <publishTime>09/17/2016 09:46:50</publishTime>
+    </File>
+    <File Include="Submit.aspx">
+      <publishTime>10/07/2016 07:16:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/20/2016 11:37:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
